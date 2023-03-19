@@ -19,7 +19,7 @@ $(document).ready(function(){
 
             }else if(document.getElementById("inputData").value == "portfolio"){
 
-                window.open('https://kaungmyatthugui.vercel.ap','_blank');
+                window.open('https://kaungmyatthugui.vercel.app','_blank');
                 document.getElementById("inputData").value = "";
 
             }else{
