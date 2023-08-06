@@ -49,9 +49,9 @@ $(document).ready(function(){
 function about(){
     var aboutDesc = document.getElementById("description");
     aboutDesc.innerHTML += `
-        <p id="aboutDesc" class="" style="color: white;">Hello I'm Kaung Myat Thu, 1st year of Computer Science Student from University Of Computer Studied Sittwe.
+        <p id="aboutDesc" class="" style="color: white;">Hello I'm Kaung Myat Thu, 2nd year of Computer Science Student from University Of Computer Studied Sittwe.
 
-        Aside Knowledge from University,I'm currently learning Mobile Development with Flutter and Web Development with NodeJs in Ray Hub Academy Sittwe.</p>
+        Aside Knowledge from University,I'm currently joining OJT as a Mobile Developer with Flutter in Ray Hub Academy Sittwe.</p>
     `;
 }
 
